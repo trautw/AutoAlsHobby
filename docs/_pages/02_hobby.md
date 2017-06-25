@@ -27,12 +27,36 @@ Es gibt sehr viele Autofahrer auf der Welt. Die wenigsten betrachten das Auto je
 Wählt man das Auto als Hobby verhält es sich anders. Der Auto Freak möchte sich mit dem Auto beschäftigen. Dabei sind Kosten oder aufgandte Zeit zweitranging. Es ist eher ein Vorteil wenn man viel Zeit und Geld in das Hobby steckt. Die Möglichkeit damit von A nach B zu fahren ist eher eine Nebensache. Wenn auch eine als angenehm empfundene.
 
 # Autofreaks
-Ich musste feststellen dass es unter den Autofreaks eine Unzahl an Untergruppen gibt. 
+Ich musste feststellen dass es unter den Autofreaks eine Unzahl an Untergruppen gibt. Jede Gruppe hat andere Vorstellungen über das Auto das sie interessiert. Das ist gut weil so eine Vielfalt an Interessengruppen entsteht. Es ist jedoch teilweise schwer eine Gruppe mit gleichen Interessen zu finden. Manche Gruppen sind recht klein wenn man einen begrenzten Radius hat. Die Achtung zwischen den Gruppen ist meiner Erfahrung nach gegeben. Ein Besuch einer anderen Gruppe stößt aber auf Unverständnis.
+
+Hier ein paar der bekannteren Gruppen
 ## Tuning
+Ziel ist es, Autos mit hoher Motorleistung und geändertem Fahrwerk zu bauen um bei Messungen oder Rennen glänzen zu können. Dabei gibt es Gruppen die offen zeigen dass es sich um Autos mit hoher Leistung handelt und andere die einen Wolf im Schafspelz bevorzugen.
+
+## Low&Slow
+Die Autos werden tiefer gelegt bis sie fast den Boden berühren. Dann kann man nur noch langsam damit fahren.
+
+## Busse
+Bei den Busfreaks gibt es die Gruppe derer die aus der Hippie Bewegung entstanden sind und diejenigen die alte Busse in jeglicher Form lieben. Vom Amerikanischen Wohnmobil bis zum Verkehrsbus.
+
+## Einzelne Modelle
+Für VW Käfer, Porsche 911er, Audi Quattro und viele andere gibt es spezielle Gruppen.
+
 ## Oldtimer
+Oftmals sehr teuere Oldtimer werden per Anhänger zu Treffen oder Ausfahrten bewegt. Oft werden Mechaniker zur Pflege beschäftigt.
+
 ## Youngtimer
+Die Szene der Youngtimer (20-30 Jahre alt) besteht oft aus Fahranfängern die Autos fahren die ihre Väter hatten.
+
 ## Marken
+Für die deutschen Marken gibt es viele Gruppen. (Audi, BMW, Mercedes, Porsche, ...)
+
+## Herkunft
+Autos aus den USA oder aus dem Osten haben eigene Gruppen hervorgebracht.
+
 ## Mechaniker
+Der Spaß an der Erhaltung alter Mechanik gibt manchen Gruppen ihren Antrieb.
+
 # Kauf eines Autos
 * [Technische Daten](http://www.7-forum.com/modelle/e38/technische_daten.php)
 # Das erste mal zum TÜV
