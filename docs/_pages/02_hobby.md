@@ -41,6 +41,7 @@ Bei den Busfreaks gibt es die Gruppe derer die aus der Hippie Bewegung entstande
 
 ## Einzelne Modelle
 Für VW Käfer, Porsche 911er, Audi Quattro und viele andere gibt es spezielle Gruppen.
+* [Ford Taunus 12m P4](https://taunusp4.wordpress.com/)
 
 ## Oldtimer
 Oftmals sehr teuere Oldtimer werden per Anhänger zu Treffen oder Ausfahrten bewegt. Oft werden Mechaniker zur Pflege beschäftigt.
