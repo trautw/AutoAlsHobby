@@ -22,9 +22,12 @@ Für mich ist das schönste an einem neuen Hobby dass man sich in komplett fremd
 Um sich in ein fremdes Thema einzuarbeiten kann man eine Ausbildung/Studium/Kurs besuchen. Dann hat es aber nicht den Charakter eines Hobbys.
 
 # Auto als Hobby
+Es gibt sehr viele Autofahrer auf der Welt. Die wenigsten betrachten das Auto jedoch als Hobby. Für sie ist das Auto ein Nutzgegenstand. Er soll günstig, zuverlässig und bequem sein. Alles was arbeit macht soll von anderen übernommen werden damit man sich möglichst wenig mit dem Gegenstand beschäftigen muss. Man nutzt den Gegenstand regelmäßig um von A nach B zu kommen. Wenn das Auto unzuverlässig wird oder im Unterhalt zu teuer sucht man ein neues. Aus ökologischen Gründen und Gründen der Lebensqualität sollte diese Gruppe zurückgedrängt werden und wird es in den Großstädten auch schon.
 
+Wählt man das Auto als Hobby verhält es sich anders. Der Auto Freak möchte sich mit dem Auto beschäftigen. Dabei sind Kosten oder aufgandte Zeit zweitranging. Es ist eher ein Vorteil wenn man viel Zeit und Geld in das Hobby steckt. Die Möglichkeit damit von A nach B zu fahren ist eher eine Nebensache. Wenn auch eine als angenehm empfundene.
 
 # Autofreaks
+Ich musste feststellen dass es unter den Autofreaks eine Unzahl an Untergruppen gibt. 
 ## Tuning
 ## Oldtimer
 ## Youngtimer
