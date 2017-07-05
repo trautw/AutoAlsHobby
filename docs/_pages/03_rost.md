@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auto als Hobby
+title: Rost
 permalink: /rost/
 ---
 
