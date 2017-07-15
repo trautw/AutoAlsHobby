@@ -4,7 +4,7 @@ title: Hifi
 permalink: /hifi/
 ---
 
-# Lautstprecher
+# Lautsprecher
 - Test: http://www.hifi-forum.de/viewthread-78-6574.html#1
 - [Adrian Audio, Schenefeld](http://www.andrian-audio.de/index.shtml)
 - [mac audio, Pulheim](http://www.mac-audio.de/de/produkte/car-audio/lautsprecher/)
