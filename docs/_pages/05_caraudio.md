@@ -10,3 +10,6 @@ permalink: /hifi/
 - [mac audio, Pulheim](http://www.mac-audio.de/de/produkte/car-audio/lautsprecher/)
 - [micro precision](http://www.microprecision.de/)
 - [infinity](https://www.infinityspeakers.com/speakers/)
+
+# Verstärker
+- [Mosconi Gladen One 130.2](http://www.mosconi.org/one130_2.html)
