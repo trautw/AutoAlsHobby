@@ -4,7 +4,7 @@ title: Statistik
 permalink: /statistics/
 ---
 
-Der Bestand wird vom Kraftfahrt Bundesamt erfasst:
+Der Bestand wird vom Kraftfahrt Bundesamt erfasst. Zu finden unter https://www.kba.de/SiteGlobals/Forms/Suche/Expertensuche_Formular.html bei der Suche nach "fz2"
 
 - [2017](https://www.kba.de/SharedDocs/Publikationen/DE/Statistik/Fahrzeuge/FZ/2017/fz2_2017_pdf.pdf?__blob=publicationFile&v=3)
 - [2016](https://www.kba.de/SharedDocs/Publikationen/DE/Statistik/Fahrzeuge/FZ/2016/fz2_2016_pdf.pdf?__blob=publicationFile&v=3)
